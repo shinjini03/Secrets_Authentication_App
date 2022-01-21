@@ -1,0 +1,23 @@
+
+body {
+  background-color: rgb(230, 195, 231);
+  /* background: linear-gradient(to bottom, black 0%,black 50%,#000000 50%,white 50%,white 100%); */
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+    /* background-color:#d48de6; */
+    background: linear-gradient(to bottom, rgb(233, 115, 233) 30%,rgb(230, 195, 231) 100%);
+}
+
+.text-center{
+  background: linear-gradient(to bottom, rgb(233, 115, 233) 30%,rgb(230, 195, 231) 100%);
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
